@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvayRoongta&show_icons=true&theme=transparent)
+![Profile Views](https://komarev.com/ghpvc/?username=magical-paperclip&color=blueviolet)
 
 <!--
 **AdvayRoongta/AdvayRoongta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
