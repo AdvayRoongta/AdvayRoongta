@@ -3,6 +3,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvayRoongta&show_icons=true&theme=transparent)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=AdvayRoongta&color=blueviolet)
+  <a href="https://www.python.org/" target="_blank" title="Learn More">
+    <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=3572A5" />
+  </a>
 
 <!--
 **AdvayRoongta/AdvayRoongta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
