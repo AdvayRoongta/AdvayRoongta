@@ -5,6 +5,7 @@
 <a href="https://www.python.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=3572A5" />
   </a>
+  <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=AdvayRoongta&color=blueviolet)
 
 
