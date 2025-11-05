@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-OpenCV-A81D33?logoColor=white&logo=Python&style=for-the-badge" />
   </a>
   <a href="https://www.java.com/en/" target="_blank" title="Learn More">
-    <img src="  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
 
 <!--
