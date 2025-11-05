@@ -5,14 +5,19 @@
 <a href="https://www.python.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=3572A5" />
   </a>
-  <a href="https://www.python.org/" target="_blank" title="Learn More">
+  <a href="https://www.selenium.dev" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Selenium-22e3440?logoColor=white&logo=Python&style=for-the-badge" />
+  </a>
+  <a href="https://opencv.org" target="_blank" title="Learn More">
+    <img src="https://img.shields.io/badge/-OpenCV-22e3440?logoColor=white&logo=Python&style=for-the-badge" />
   </a>
 
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=AdvayRoongta&color=blueviolet)
 
 **AdvayRoongta/AdvayRoongta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+opencv
 
 Here are some ideas to get you started:
 
