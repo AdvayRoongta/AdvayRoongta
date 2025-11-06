@@ -19,4 +19,7 @@
   <a href="https://opencv.org" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-OpenCV-A81D33?logoColor=white&logo=Python&style=for-the-badge" />
   </a>
+  <a href="https://micropython.org" target="_blank" title="Learn More">
+    <img src="https://img.shields.io/badge/-OpenCV-557C94?logoColor=white&logo=Python&style=for-the-badge" />
+  </a>
  
