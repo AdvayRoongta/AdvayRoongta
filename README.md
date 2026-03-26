@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvayRoongta&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvayRoongta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400)
 <br>
 <br>
 <a href="https://www.python.org/" target="_blank" title="Learn More">
