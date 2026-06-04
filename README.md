@@ -1,6 +1,5 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvayRoongta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400)
-<br>
+
 <br>
 <a href="https://www.python.org/" target="_blank" title="Learn More">
     <img src="https://img.shields.io/badge/-Python-2e3440?logoColor=white&logo=Python&style=for-the-badge&color=3572A5" />
